@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Front end<br>Estou a procura da minha primeira oportunidade
+Sou estudante de Front-end em busca da minha primeira oportunidade profissional, atualmente em transição de carreira. Anteriormente, atuei como Analista de Sementes e estou empenhado em me tornar um desenvolvedor de software no futuro.
 
 
 ## 🌐 Socials:
